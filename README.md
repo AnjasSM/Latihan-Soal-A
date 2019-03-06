@@ -1,8 +1,19 @@
-# Latihan-Soal-A
-Latihan soal
 
-*semua latihan soal menggunakan Javascript
+# Soal-A
+Soal-A
+Jawaban soal A
+dalam mengerjakan saya menggunakan VS-Code
 
+## Requirements
+- Javascript
+- Git
+- MySQL
+- node.js
 
-
-*Function pada setiap soal bisa langsung dipakai
+## Installation (DEV)
+- run Vs-code.
+- buat file dengan extension js
+- pastekan soal diatas pada file js yang tadi dibuat
+- tekan ctrl + ` untuk mengaktifkan terminal
+- ketik pada terminal node(spasi)namaFile.js || contoh : node soal1.js
+- Tekan enter
