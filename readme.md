@@ -4,3 +4,6 @@ semua file dikerjakan menggunakan Javascript
 
 
 function bisa langsung dipanggil lewat terminal
+
+
+Mermaid 4 you
